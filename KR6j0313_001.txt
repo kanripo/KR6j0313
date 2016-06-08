@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:06.659132
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:51
 #+TITLE: 佛說聖多羅菩薩經
 #+PROPERTY: CBETA_ID T20n1104
 #+PROPERTY: ID KR6j0313
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1104
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0313_T_000-0470b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0313_T_001-0470b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1104¶
-
- 佛說聖多羅菩薩經¶
+No. 1104¶
+佛說聖多羅菩薩經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 如是我聞。一時佛在香醉山五髻乾闥婆王¶
 宮。彼有種種鼓樂弦歌出微妙音。¶
@@ -242,9 +240,9 @@ No.1104¶
 　離欲身應供
 　寂靜道常安¶
 　正覺所讚揚
-　是多羅菩薩
+　是多羅菩薩」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊說此頌已。告乾闥婆王及一切眾¶
 會。此是多羅菩薩一百八名。我已為汝宣說。¶
@@ -282,9 +280,9 @@ No.1104¶
 　而能為我
 　及於眾會¶
 　說此最上
-　真實之義
+　真實之義」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊說是經已。彼諸菩薩摩訶薩。及諸¶
 聲聞并持明者。大忿怒主一切明王。諸天人¶
